@@ -27,6 +27,6 @@ img {
 }
 
 /* Change the font-family of your list */
-li{
+ul{
   font-family: cursive;arial;tahoma
 }
